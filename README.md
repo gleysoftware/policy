@@ -1,0 +1,1 @@
+Çıkmış sorular ile ilgili sınırlamaları  içerir.
